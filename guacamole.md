@@ -4,5 +4,5 @@
 - salt 0.1P
 
 # instructions
-
+another way is better
 
